@@ -1,5 +1,5 @@
 # Adventure-Awaits
-Adventure Awaits is a Mod Pack that will enhance your survival Minecraft exploration experience.
+Adventure Awaits is a 1.16.5 FORGE Mod Pack that will enhance your survival Minecraft exploration experience.
 
 It adds many different things from new bosses, dungeons, better caves, artifacts, and more!
 
@@ -91,7 +91,7 @@ Shoulder Surfing
 
 Small Ships
 
-Sodium Forge
+Sodium Forge (optional but highly suggested due to huge performance boost.)
 
 Sophisticated Backpacks
 
