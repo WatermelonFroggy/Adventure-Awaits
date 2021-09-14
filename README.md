@@ -12,61 +12,60 @@ More info coming soon!
 
 List Of Mods:
 
-Abnormals Core
-Alex's Mobs
-Artifacts
-Atmospheric
-AutoRegLib
-Better Caves
-Better End
-Better Mineshafts
-Better Strongholds
-Better Weather
-Biomes O' Plenty
-Bountiful
-Cave Biome API
-Caves And Clifs Backport
-Chunk Pregenerator
-Citadel
-Comforts
-Curios
-Dungeons Gear
-Dynamic Surroundings
-Expandability
-Grapple Hooks
-Just Enough Items
-Kotlin Libraries
-Kotlin For Forge
-Lollipop
-Lost Trinkets
-Minecraft Capes (thought it was cool, might remove if it causes a performance impact)
-MoreVanillaLib
-Mouse Tweaks
-Mowzies Mobs
-Mutant Beasts
-Patchouli
-Quark
-Quark Oddities
-Repurposed Structures
-Shield Mechanics
-Shoulder Surfing
-Small Ships
-Sodium Forge
-Sophisticated Backpacks
-Spartan Weaponry
-Spiders 2.0 (a must have for any Mod Pack)
-The Undergarden
-The Abyss 2
-The_Undergarden
-twilight forest
-Upgrade Aquatic
-Valhelsia Core
-Valhelsia Structures
-Vanilla Hammers
-Xaeros World Map
-Xaeros Minimap
+Abnormals Core,
+Alex's Mobs,
+Artifacts,
+Atmospheric,
+AutoRegLib,
+Better Caves,
+Better End,
+Better Mineshafts,
+Better Strongholds,
+Better Weather,
+Biomes O' Plenty,
+Bountiful,
+Cave Biome API,
+Caves And Clifs Backport,
+Chunk Pregenerator,
+Citadel,
+Comforts,
+Curios,
+Dungeons Gear,
+Dynamic Surroundings,
+Expandability,
+Grapple Hooks,
+Just Enough Items,
+Kotlin Libraries,
+Kotlin For Forge,
+Lollipop,
+Lost Trinkets,
+Minecraft Capes (thought it was cool, might remove if it causes a performance impact),
+MoreVanillaLib,
+Mouse Tweaks,
+Mowzies Mobs,
+Mutant Beasts,
+Patchouli,
+Quark,
+Quark Oddities,
+Repurposed Structures,
+Shield Mechanics,
+Shoulder Surfing,
+Small Ships,
+Sodium Forge,
+Sophisticated Backpacks,
+Spartan Weaponry,
+Spiders 2.0 (a must have for any Mod Pack),
+The Undergarden,
+The Abyss 2,
+The_Undergarden,
+twilight forest,
+Upgrade Aquatic,
+Valhelsia Core,
+Valhelsia Structures,
+Vanilla Hammers,
+Xaeros World Map,
+Xaeros Minimap,
 Yungs Api
-
 
 If you own one of the mods included in this Mod Pack, please DM me on discord if you want it removed.
 
