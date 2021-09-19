@@ -1,4 +1,8 @@
 # Adventure-Awaits
+
+# MOVED TO CURSEFORGE
+https://www.curseforge.com/minecraft/modpacks/adventure-awaits-forge
+
 Adventure Awaits is a 1.16.5 FORGE Mod Pack that will enhance your survival Minecraft exploration experience.
 
 It adds many different things from new bosses, dungeons, better caves, artifacts, and more!
@@ -69,3 +73,17 @@ Yungs Api | 1.16.4-Forge-12 | [Url](https://www.curseforge.com/minecraft/mc-mods
 If you own one of the mods included in this Mod Pack, please DM me on discord if you want it removed.
 
 WatermelonFroggy#1270
+
+# How to install?
+
+Click what is outlined in blue.
+
+![tut1](https://user-images.githubusercontent.com/82559263/133939774-8edfdfa6-8110-4118-9a68-aa7cdf7d08b0.PNG)
+
+![tut2](https://user-images.githubusercontent.com/82559263/133939782-38e33c32-b070-4903-9600-ac5c5be6f297.PNG)
+
+![tut3](https://user-images.githubusercontent.com/82559263/133939785-0f8a9cd3-a2b4-4501-baf0-e225bb6cac1e.PNG)
+
+![tut4](https://user-images.githubusercontent.com/82559263/133939791-76ed01ac-f371-4fe4-9617-426f05e53c7b.PNG)
+
+![tut5](https://user-images.githubusercontent.com/82559263/133939795-46790365-9a63-41d3-ab37-30daaf476e51.PNG)
