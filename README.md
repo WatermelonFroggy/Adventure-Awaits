@@ -40,6 +40,7 @@ Dungeons Arise | 1.16.5-2.1.47-release | [Url](https://www.curseforge.com/minecr
 Dynamic Surroundings | 1.16.4-4.0.4.2 | [Url](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings/files)
 Expandability | 2.0.1-Forge | [Url](https://www.curseforge.com/minecraft/mc-mods/Expandability/files)
 Grapple Hooks | 1.2.2-33 | [Url](https://www.curseforge.com/minecraft/mc-mods/grapple-hooks/files)
+GeckoLib | forge-1.16.5-3.0.46 | [Url](https://www.curseforge.com/minecraft/mc-mods/geckolib/files)
 Ice And Fire | 2.1.9-1.16.5 | [Url](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons/files)
 Inventory Pets | 1.16.5-2.0.15 | [Url](https://www.curseforge.com/minecraft/mc-mods/inventory-pets/files)
 Just Enough Items | 1.16.5-7.7.1.121 | [Url](https://www.curseforge.com/minecraft/mc-mods/jei/files)
