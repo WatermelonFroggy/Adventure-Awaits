@@ -26,7 +26,7 @@ distance:1
 showCoords:true
 lockNorth:false
 zoom:0
-minimapSize:82
+minimapSize:90
 entityAmount:10
 chunkGrid:-1
 slimeChunks:true
