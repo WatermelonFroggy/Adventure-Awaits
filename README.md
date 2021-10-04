@@ -21,6 +21,7 @@ Allthemodium | 1.5.12-1.16.5-36.1.23 | [Url](https://www.curseforge.com/minecraf
 Artifacts  | 1.16.5-2.10.0 | [Url](https://www.curseforge.com/minecraft/mc-mods/artifacts/files)
 Atmospheric | 1.16.5-3.1.0 | [Url](https://www.curseforge.com/minecraft/mc-mods/Atmospheric/files)
 AutoRegLib | 1.6-49 | [Url](https://www.curseforge.com/minecraft/mc-mods/AutoRegLib/files)
+Awesome Dungeon Forge | 1.16.5-1.1.0 | [Url](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-forge/files)
 Better Caves | 1.16.4-1.1.2 | [Url](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves/files)
 Better End | 1.16.5-1.6.1* | [Url](https://www.curseforge.com/minecraft/mc-mods/betterend/files)
 Better Mineshafts | Forge-1.16.4-2.0.4 | [Url](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge/files)
