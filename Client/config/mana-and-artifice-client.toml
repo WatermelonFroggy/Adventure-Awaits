@@ -19,7 +19,7 @@
 	#6: Bottom Left
 	#7: Middle Left
 	#Range: 0 ~ 7
-	hudPosition = 0
+	hudPosition = 5
 	#Change the size of pinned recipes.
 	#Range: 1 ~ 3
 	pinnedRecipeSize = 1
@@ -38,6 +38,6 @@
 [ma_helptips]
 	ma_damage_stacking_tip = false
 	ma_pin_tip = false
-	ma_modifier_tip = false
+	ma_modifier_tip = true
 	ma_ritual_tip = false
 

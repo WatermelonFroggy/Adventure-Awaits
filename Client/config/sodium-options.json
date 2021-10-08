@@ -1,25 +1,21 @@
 {
   "quality": {
-    "cloud_quality": "DEFAULT",
     "weather_quality": "FAST",
-    "enable_vignette": false,
-    "enable_fog": false,
-    "enable_clouds": true,
-    "smooth_lighting": "HIGH"
+    "enable_vignette": false
   },
   "advanced": {
-    "use_vertex_array_objects": true,
-    "use_chunk_multidraw": true,
-    "translucency_sorting": true,
-    "use_leaves_culling": false,
+    "arena_memory_allocator": "ASYNC",
     "animate_only_visible_textures": true,
     "use_entity_culling": true,
     "use_particle_culling": true,
     "use_fog_occlusion": true,
-    "use_compact_vertex_format": true,
     "use_block_face_culling": true,
     "allow_direct_memory_access": true,
-    "ignore_driver_blacklist": false
+    "enable_memory_tracing": false,
+    "use_advanced_staging_buffers": true,
+    "max_pre_rendered_frames": 3
   },
-  "fps_counter": true
+  "notifications": {
+    "hide_donation_button": false
+  }
 }
