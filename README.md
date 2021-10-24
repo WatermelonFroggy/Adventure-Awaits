@@ -108,7 +108,7 @@ Xaeros Minimap | 21.16.0-Forge-1.16.5 | [Url](https://www.curseforge.com/minecra
 XP From Harvest | 1.16.3-1.2.1 | [Url](https://www.curseforge.com/minecraft/mc-mods/xp-from-harvest/files)
 Yungs Api | 1.16.4-Forge-12 | [Url](https://www.curseforge.com/minecraft/mc-mods/yungs-api/files)
 
-<sup><sub>All Mods As Of 1.0.9<sub><sup>
+<sup><sub>All Mods As Of 1.9.5<sub><sup>
 
 If you own one of the mods included in this Mod Pack, please DM me on discord if you want it removed.
 
