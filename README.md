@@ -37,6 +37,7 @@ Caves And Cliffs Backport | 1.16.5-6.3 | [Url](https://www.curseforge.com/minecr
 Chunk Pregenerator | 1.16-3.1.1 | [Url](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator/files)
 Citadel | 1.8.1-1.16.5 | [Url](https://www.curseforge.com/minecraft/mc-mods/citadel/files)
 Comforts | Forge-1.16.5-4.0.1.3 | [Url](https://www.curseforge.com/minecraft/mc-mods/comforts/files)
+Construction Wands | 11.16.5-2.4 | [Url](https://www.curseforge.com/minecraft/mc-mods/construction-wand)
 Curios | Forge-1.16.5-4.0.5.2 | [Url](https://www.curseforge.com/minecraft/mc-mods/curios/files)
 Decorative Blocks | 1.7.2 | [Url](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
 Decorative Blocks modded compat | 1.2 | [Url](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks-modded-compat)
@@ -44,11 +45,12 @@ Dungeons Gear | 1.16.5-3.0.17 | [Url](https://www.curseforge.com/minecraft/mc-mo
 Dungeons Arise | 1.16.5-2.1.47-release | [Url](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise/files)
 Dynamic Surroundings | 1.16.4-4.0.4.2 | [Url](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings/files)
 Dragon Gear | 1.16.5-1.0.4 | [Url](https://www.curseforge.com/minecraft/mc-mods/dragon-gear/files)
+Ender Storage | 1.16.5-2.8.0.168-universal | [Url](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
 Enhanced Celestials | 2.0.8-1.16.5 | [Url](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials/files)
 Expandability | 2.0.1-Forge | [Url](https://www.curseforge.com/minecraft/mc-mods/Expandability/files)
 FTB Libary (FORGE) | 1605.3.3 | [Url](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
 FTB Ultimine (FORGE) | 1605.3.0 | [Url](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge)
-Froggy's Pointless Advancements | 1.16.5-1.0.1 | [Url](https://www.curseforge.com/minecraft/mc-mods/froggys-pointless-advancements/files) This is my mod! :)
+Froggy's Pointless Advancements | 1.16.5-1.2.0 | [Url](https://www.curseforge.com/minecraft/mc-mods/froggys-pointless-advancements/files) This is my mod! :)
 Grapple Hooks | 1.2.2-33 | [Url](https://www.curseforge.com/minecraft/mc-mods/grapple-hooks/files)
 GeckoLib | forge-1.16.5-3.0.46 | [Url](https://www.curseforge.com/minecraft/mc-mods/geckolib/files)
 Ice And Fire | 2.1.9-1.16.5 | [Url](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons/files)
@@ -63,6 +65,7 @@ Kotlin For Forge | 1.15.1-obf | [Url](https://www.curseforge.com/minecraft/mc-mo
 Lollipop | 1.16.5-3.2.9 | [Url](https://www.curseforge.com/minecraft/mc-mods/lollipop/files)
 Lost Trinkets | 1.16.5-0.1.27 | [Url](https://www.curseforge.com/minecraft/mc-mods/lost-trinkets/files)
 Minecolonies | 1.0.0-RELEASE-universal | [Url](https://www.curseforge.com/minecraft/mc-mods/minecolonies/files)
+Magnesium | 1.16.5-1.3 | [Url](https://www.curseforge.com/minecraft/mc-mods/sodium-reforged/files)
 Mana And Artifice | 1.4.0.8 | [Url](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice/files)
 Minecraft Capes | Forge-1.16.5-11.0.0 | [Url](https://www.curseforge.com/minecraft/mc-mods/minecraftcapes-mod/files)
 MoreVanillaLib | 1.16.4-1.4.1 | [Url](https://www.curseforge.com/minecraft/mc-mods/morevanillalib/files)
@@ -87,7 +90,6 @@ Silent Gems | 1.16.3-3.7.16 | [Url](https://www.curseforge.com/minecraft/mc-mods
 Silent lib | 1.16.3-4.9.6 | [Url](https://www.curseforge.com/minecraft/mc-mods/silent-lib/files)
 Simple Discord Rich Presence | [Url](https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence/files)
 Small Ships | 1.16.5-1.10.1 | [Url](https://www.curseforge.com/minecraft/mc-mods/small-ships/files)
-Sodium Forge | 2.9.10-rev.ea6353c | [Url](https://www.curseforge.com/minecraft/mc-mods/sodium/files)
 Sophisticated Backpacks | 1.16.5-3.2.7.326 | [Url](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files)
 Spartan Weaponry | 1.16.4-2.1.0-beta-4 | [Url](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry/files)
 Spiders 2.0 | 2.0-1.16.4-1.0.4 | [Url](https://www.curseforge.com/minecraft/mc-mods/spiders-2-0/files)
@@ -103,12 +105,12 @@ Valhelsia Structures | 1.16.5-0.1.5 | [Url](https://www.curseforge.com/minecraft
 Vanilla Hammers | 1.16.4-2.2.0 | [Url](https://www.curseforge.com/minecraft/mc-mods/vanilla-hammers/files)
 Wall-Jump! [FORGE] | 1.16.4-1.3.7 | [Url](https://www.curseforge.com/minecraft/mc-mods/wall-jump)
 Waystones | 1.16.5-7.6.3 | [Url](https://www.curseforge.com/minecraft/mc-mods/waystones/files)
-Xaeros World Map | 1.17.0.1-Forge-1.16.5 | [Url](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files)
-Xaeros Minimap | 21.16.0-Forge-1.16.5 | [Url](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files)
+Xaeros World Map | 1.18.1-Forge-1.16.5 | [Url](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files)
+Xaeros Minimap | 21.21.0-Forge-1.16.5 | [Url](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files)
 XP From Harvest | 1.16.3-1.2.1 | [Url](https://www.curseforge.com/minecraft/mc-mods/xp-from-harvest/files)
 Yungs Api | 1.16.4-Forge-12 | [Url](https://www.curseforge.com/minecraft/mc-mods/yungs-api/files)
 
-<sup><sub>All Mods As Of 1.9.5<sub><sup>
+All Mods As Of v2.0.0
 
 If you own one of the mods included in this Mod Pack, please DM me on discord if you want it removed.
 
