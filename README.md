@@ -31,6 +31,7 @@ Better Weather | 2.0.1 | [Url](https://www.curseforge.com/minecraft/mc-mods/bett
 Biomes O' Plenty | 1.16.5-13.1.0.482-universal | [Url](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files)
 Bookshelf | Forge-1.16.5-10.3.29 | [Url](https://www.curseforge.com/minecraft/mc-mods/bookshelf/files)
 Bountiful | 1.16.4-3.3.1 | [Url](https://www.curseforge.com/minecraft/mc-mods/bountiful/files)
+Caelus API | 1.16.5-2.1.3.1 | [Url](https://www.curseforge.com/minecraft/mc-mods/caelus/files)
 Cagedmobs | 1.16.5-1.3.5 | [Url](https://www.curseforge.com/minecraft/mc-mods/caged-mobs/files)
 Cave Biome API | 1.16.5-1.3.7 | [Url](https://www.curseforge.com/minecraft/mc-mods/cavebiomeapi/files)
 Caves And Cliffs Backport | 1.16.5-6.3 | [Url](https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport/files)
@@ -48,11 +49,13 @@ Dragon Gear | 1.16.5-1.0.4 | [Url](https://www.curseforge.com/minecraft/mc-mods/
 Ender Storage | 1.16.5-2.8.0.168-universal | [Url](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
 Enhanced Celestials | 2.0.8-1.16.5 | [Url](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials/files)
 Expandability | 2.0.1-Forge | [Url](https://www.curseforge.com/minecraft/mc-mods/Expandability/files)
+Fast Leaf Decay | v25 | [Url](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/files)
 FTB Libary (FORGE) | 1605.3.3 | [Url](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
 FTB Ultimine (FORGE) | 1605.3.0 | [Url](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge)
 Froggy's Pointless Advancements | 1.16.5-1.2.0 | [Url](https://www.curseforge.com/minecraft/mc-mods/froggys-pointless-advancements/files) This is my mod! :)
 Grapple Hooks | 1.2.2-33 | [Url](https://www.curseforge.com/minecraft/mc-mods/grapple-hooks/files)
 GeckoLib | forge-1.16.5-3.0.46 | [Url](https://www.curseforge.com/minecraft/mc-mods/geckolib/files)
+Hwyla | forge-1.10.11-B78-1.16.2 | [Url](https://www.curseforge.com/minecraft/mc-mods/hwyla/files)
 Ice And Fire | 2.1.9-1.16.5 | [Url](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons/files)
 InsaneLib | 1.3.0-mc1.16.5 | [Url](https://www.curseforge.com/minecraft/mc-mods/insanelib/files)
 Inventory Pets | 1.16.5-2.0.15 | [Url](https://www.curseforge.com/minecraft/mc-mods/inventory-pets/files)
@@ -102,6 +105,7 @@ Twilight Forest | 1.16.5-4.0.546-universal | [Url](https://www.curseforge.com/mi
 Upgrade Aquatic | 1.16.5-3.1.0 | [Url](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic/files)
 Valhelsia Core | 16.0.10 | [Url](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core/files)
 Valhelsia Structures | 1.16.5-0.1.5 | [Url](https://www.curseforge.com/minecraft/mc-mods/valhelsia-Structures/files/)
+Waila Harvestability | mc1.16.x-forge-1.1.15 | [Url](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability/files)
 Vanilla Hammers | 1.16.4-2.2.0 | [Url](https://www.curseforge.com/minecraft/mc-mods/vanilla-hammers/files)
 Wall-Jump! [FORGE] | 1.16.4-1.3.7 | [Url](https://www.curseforge.com/minecraft/mc-mods/wall-jump)
 Waystones | 1.16.5-7.6.3 | [Url](https://www.curseforge.com/minecraft/mc-mods/waystones/files)
@@ -110,7 +114,7 @@ Xaeros Minimap | 21.21.0-Forge-1.16.5 | [Url](https://www.curseforge.com/minecra
 XP From Harvest | 1.16.3-1.2.1 | [Url](https://www.curseforge.com/minecraft/mc-mods/xp-from-harvest/files)
 Yungs Api | 1.16.4-Forge-12 | [Url](https://www.curseforge.com/minecraft/mc-mods/yungs-api/files)
 
-All Mods As Of v2.0.0
+All Mods As Of v2.0.5
 
 If you own one of the mods included in this Mod Pack, please DM me on discord if you want it removed.
 
