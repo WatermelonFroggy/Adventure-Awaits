@@ -3,11 +3,14 @@
 # MOVED TO CURSEFORGE
 https://www.curseforge.com/minecraft/modpacks/adventure-awaits-forge
 
+![Adventure Awaits Banner](https://user-images.githubusercontent.com/82559263/142566520-bb6a1c80-1ff0-4b83-abb5-210295c55533.png)
+
 Adventure Awaits is a 1.16.5 FORGE Mod Pack that will enhance your survival Minecraft exploration experience.
 
 It adds many different things from new bosses, dungeons, better caves, artifacts, and more!
 
 I decided to make this Mod Pack because i was tired of the normal way minecraft did things; I was tired of the same old tiny dungeons, the same old boring caves, the same old boring bosses, the same old... 
+
 
 Well, you get the point, This Mod Pack will (hopefully) fix all of those problems if you have them like i do.
 
